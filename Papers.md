@@ -8,6 +8,7 @@
 
 [2] **Connecting Interpretability and Robustness in Decision Trees through Separation**
 	
+
     决策树中的鲁棒性与可解释性的关系
     
     https://arxiv.org/pdf/2102.07048.pdf
@@ -106,10 +107,12 @@
 
 [23] Explanations of Black-Box Models based on Directional Feature Interactions
 	
+
     根据feature interaction给出解释
 
 [24] Cartoon Explanations of Image Classifiers
 	
+
     Image 里面的稀疏解释
 
 [25] NIPS 2021 - EDDA: Explanation driven Data Augmentation to Improve Explanation Faithfulness
@@ -121,3 +124,16 @@
 	LIME - Local Interpretable Model-agnostic Explanations
 	
 	https://arxiv.org/pdf/1602.04938.pdf
+
+[27] Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities and challenges toward responsible AI
+
+	Explainable AI 综述
+	
+	https://arxiv.org/pdf/1910.10045.pdf
+
+[28] Opportunities and Challenges in Explainable Artificial Intelligence (XAI): A Survey
+
+	Explainable AI 综述
+	
+	https://arxiv.org/pdf/2006.11371.pdf
+
